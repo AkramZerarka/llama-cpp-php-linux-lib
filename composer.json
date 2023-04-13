@@ -1,0 +1,23 @@
+{
+    "name": "kambo/llama-cpp-php-linux-lib",
+    "description": "Linux binary library for llama.cpp packaged as composer dependency",
+    "keywords": ["llama.cpp"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bohuslav Simek",
+            "email": "bohuslav@simek.si",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kambo\\LLamaCPPLinuxLib\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
