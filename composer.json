@@ -1,5 +1,5 @@
 {
-    "name": "kambo/llama-cpp-php-linux-lib",
+    "name": "akramzerarka/llama-cpp-php-linux-lib",
     "description": "Linux binary library for llama.cpp packaged as composer dependency",
     "keywords": ["llama.cpp"],
     "license": "MIT",
@@ -7,6 +7,11 @@
         {
             "name": "Bohuslav Simek",
             "email": "bohuslav@simek.si",
+            "role": "Developer"
+        },
+        {
+            "name": "Akram Zerarka",
+            "email": "akram.zerarka@gmail.com",
             "role": "Developer"
         }
     ],
